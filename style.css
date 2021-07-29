@@ -1,0 +1,27 @@
+body{
+    background-color:grey;
+    margin:auto;
+}
+.playerDiv{
+    text-align:center;
+}
+
+.playerOne{
+    display:inline-block;
+    width:25%;
+}
+
+.playerTwo{
+    display:inline-block;
+}
+h1{
+    margin:auto;
+    padding:10px;
+    font-family: 'MonteCarlo', cursive;
+    font-weight:bold;
+    font-size:8rem;
+}
+h3{
+    padding:10px;
+    font-family: 'Yomogi', cursive;
+}
